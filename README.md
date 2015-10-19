@@ -1,5 +1,5 @@
 # Lab13
-Implementation of a 4-bit digital to analog converter, using the SysTick timer to request interrupts at a particular period, in order to implement a 4-key digital piano. 
+Implementation of a 4-bit digital to analog converter, using the SysTick timer to request interrupts at a particular period, in order to implement a 4-key digital piano (written in C). 
 
 This is lab 13 from the Edx hosted MOOC UTAustinX: UT.6.01x Embedded Systems - Shape the World.
 
